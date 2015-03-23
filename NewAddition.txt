@@ -1,3 +1,0 @@
-This is a new file  of code
-I will write some text here and create a new file 
-And then clone the repository and boom 
